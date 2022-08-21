@@ -28,6 +28,10 @@
     "packages_count": 3
   },
   {
+    "name": "followers",
+    "packages_count": 3
+  },
+  {
     "name": "image",
     "packages_count": 2
   },
@@ -36,7 +40,19 @@
     "packages_count": 2
   },
   {
-    "name": "followers",
+    "name": "favorites",
+    "packages_count": 2
+  },
+  {
+    "name": "following",
+    "packages_count": 2
+  },
+  {
+    "name": "laravel-favorite",
+    "packages_count": 2
+  },
+  {
+    "name": "user-relations",
     "packages_count": 2
   },
   {
@@ -369,22 +385,6 @@
   },
   {
     "name": "sms-gateway",
-    "packages_count": 1
-  },
-  {
-    "name": "favorites",
-    "packages_count": 1
-  },
-  {
-    "name": "following",
-    "packages_count": 1
-  },
-  {
-    "name": "laravel-favorite",
-    "packages_count": 1
-  },
-  {
-    "name": "user-relations",
     "packages_count": 1
   },
   {
